@@ -1,0 +1,280 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Classic Margherita Pizza",
+      "description": "A simple yet delicious Italian pizza with fresh ingredients, crispy crust, and aromatic basil leaves.",
+      "ingredients": [
+        "1 Pizza dough ball",
+        "1/2 cup Tomato sauce",
+        "1 cup Fresh mozzarella cheese (sliced)",
+        "5-6 Fresh basil leaves",
+        "1 tbsp Olive oil",
+        "A pinch of Salt"
+      ],
+      "instructions": [
+        "Preheat your oven to 475°F (245°C).",
+        "Roll out the pizza dough on a floured surface into a circular shape.",
+        "Spread the tomato sauce evenly over the dough, leaving a thin border around the edges.",
+        "Distribute the fresh mozzarella slices evenly on top of the sauce.",
+        "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is bubbly.",
+        "Garnish with fresh basil leaves, drizzle with olive oil, sprinkle a pinch of salt, and serve hot."
+      ],
+      "prepTime": 20,
+      "cookTime": 12,
+      "difficulty": "easy",
+      "category": "vegetarian",
+      "isPremium": false
+    },
+    {
+      "id": "2",
+      "name": "Creamy Spaghetti Carbonara",
+      "description": "A classic Roman pasta dish made with eggs, hard cheese, cured pork, and freshly cracked black pepper.",
+      "ingredients": [
+        "200g Spaghetti",
+        "100g Guanciale or Pancetta (diced)",
+        "2 large Eggs",
+        "50g Pecorino Romano cheese (grated)",
+        "50g Parmesan cheese (grated)",
+        "2 cloves Garlic (optional)",
+        "Salt and Black pepper"
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+        "While pasta cooks, heat a pan over medium heat and crisp the diced pancetta until golden brown. Remove garlic if used.",
+        "In a small bowl, whisk the eggs together with the Pecorino Romano and Parmesan cheeses to form a thick paste. Season with black pepper.",
+        "Drain the pasta, reserving 1/2 cup of pasta water.",
+        "Add the hot pasta directly to the pan with the pancetta off the heat. Pour the egg-cheese mixture over the pasta.",
+        "Toss quickly to coat the pasta. The heat from the pasta will cook the egg and create a creamy sauce. Add pasta water if too thick."
+      ],
+      "prepTime": 15,
+      "cookTime": 15,
+      "difficulty": "medium",
+      "category": "non-vegetarian",
+      "isPremium": false
+    },
+    {
+      "id": "3",
+      "name": "Vegan Chickpea Coconut Curry",
+      "description": "A rich, flavorful, and comforting plant-based curry cooked in a creamy coconut milk base with aromatic spices.",
+      "ingredients": [
+        "1 can (400g) Chickpeas (drained and rinsed)",
+        "1 can (400ml) Coconut milk",
+        "1 medium Onion (chopped)",
+        "2 cloves Garlic (minced)",
+        "1 tbsp Ginger (grated)",
+        "2 tbsp Curry powder",
+        "1 cup Spinach leaves",
+        "1 tbsp Coconut oil"
+      ],
+      "instructions": [
+        "Heat coconut oil in a large pan over medium heat. Sauté the onion, garlic, and ginger until soft and fragrant.",
+        "Add the curry powder and stir well to coat the aromatics for 1 minute.",
+        "Pour in the coconut milk and add the drained chickpeas. Stir to combine.",
+        "Bring to a simmer and let it cook for 15 minutes, allowing the flavors to meld and the sauce to thicken.",
+        "Stir in the spinach leaves and cook for another 2 minutes until wilted.",
+        "Season with salt to taste and serve warm with basmati rice or naan."
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "difficulty": "easy",
+      "category": "vegan",
+      "isPremium": false
+    },
+    {
+      "id": "4",
+      "name": "Luxury Black Truffle Risotto",
+      "description": "An exquisite and aromatic Italian rice dish cooked slowly with broth, white wine, and infused with premium black truffle oil.",
+      "ingredients": [
+        "1 cup Arborio rice",
+        "1/2 cup Dry white wine",
+        "4 cups Vegetable broth (warm)",
+        "1 small Shallot (finely chopped)",
+        "2 tbsp Butter",
+        "1/2 cup Parmesan cheese (grated)",
+        "2 tbsp Premium black truffle oil",
+        "Salt and white pepper to taste"
+      ],
+      "instructions": [
+        "Heat 1 tbsp of butter in a saucepan over medium heat. Sauté the shallot until translucent.",
+        "Add the Arborio rice and toast it for 2 minutes, stirring constantly until the edges are translucent.",
+        "Pour in the white wine and stir until completely absorbed by the rice.",
+        "Add the warm broth, one ladle at a time, stirring constantly. Wait until each ladle is absorbed before adding the next.",
+        "Continue this process for about 20 minutes until the rice is cooked but remains slightly firm (al dente).",
+        "Remove from heat, stir in the remaining butter, Parmesan cheese, and black truffle oil. Season with salt and pepper, cover for 2 minutes, and serve."
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "difficulty": "hard",
+      "category": "vegetarian",
+      "isPremium": true
+    },
+    {
+      "id": "5",
+      "name": "Pan-Seared Ribeye Steak",
+      "description": "A restaurant-quality juicy beef steak seared in a cast iron skillet with garlic butter, rosemary, and thyme.",
+      "ingredients": [
+        "1 Ribeye steak (approx 350g, thick cut)",
+        "2 tbsp Butter",
+        "3 cloves Garlic (crushed)",
+        "2 sprigs Fresh rosemary",
+        "2 sprigs Fresh thyme",
+        "1 tbsp Olive oil",
+        "Coarse salt and freshly cracked black pepper"
+      ],
+      "instructions": [
+        "Remove the steak from the refrigerator 30 minutes before cooking to bring it to room temperature. Pat dry with paper towels.",
+        "Season both sides generously with coarse salt and freshly cracked black pepper.",
+        "Heat olive oil in a heavy cast-iron skillet over high heat until smoking.",
+        "Add the steak and sear for 2-3 minutes per side without moving it, to form a rich brown crust.",
+        "Reduce heat to medium-low, add butter, crushed garlic, rosemary, and thyme to the skillet.",
+        "Tilt the pan and spoon the melted butter continuously over the steak (basting) for 2 minutes for medium-rare.",
+        "Transfer the steak to a board and let it rest for 5-7 minutes before slicing. Serve with pan juices."
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "difficulty": "medium",
+      "category": "non-vegetarian",
+      "isPremium": false
+    },
+    {
+      "id": "6",
+      "name": "Gluten-Free Chocolate Avocado Mousse",
+      "description": "A velvety-smooth, healthy, and decadent chocolate dessert made with ripe avocados, cocoa powder, and natural sweeteners.",
+      "ingredients": [
+        "2 ripe Avocados (pitted and scooped)",
+        "1/2 cup unsweetened Cocoa powder",
+        "1/2 cup Maple syrup or Honey",
+        "1/2 cup Almond milk",
+        "1 tsp Vanilla extract",
+        "A pinch of Salt",
+        "Fresh berries for garnish"
+      ],
+      "instructions": [
+        "Add the scooped avocados, cocoa powder, maple syrup, almond milk, vanilla extract, and salt to a high-speed blender or food processor.",
+        "Blend on high until the mixture is completely smooth, creamy, and free of lumps. Scrape down the sides as needed.",
+        "If the mousse is too thick, add a tablespoon of almond milk at a time to reach your desired consistency.",
+        "Transfer the mousse to serving bowls and chill in the refrigerator for at least 1 hour before serving.",
+        "Garnish with fresh raspberries or strawberries and a sprinkle of cocoa nibs before serving."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "difficulty": "easy",
+      "category": "vegan",
+      "isPremium": false
+    },
+    {
+      "id": "7",
+      "name": "Signature Lobster Thermidor",
+      "description": "An opulent French classic consisting of a creamy mixture of cooked lobster meat, egg yolks, and brandy, stuffed into a lobster shell.",
+      "ingredients": [
+        "2 Whole cooked lobsters",
+        "2 tbsp Butter",
+        "1 shallot (finely chopped)",
+        "1/2 cup Mushrooms (sliced)",
+        "2 tbsp Brandy or Cognac",
+        "1/2 cup Dry white wine",
+        "1 cup Heavy cream",
+        "1 tsp Dijon mustard",
+        "1/2 cup Gruyere cheese (grated)"
+      ],
+      "instructions": [
+        "Cut the lobsters in half lengthwise, remove the meat from the tails and claws, and chop it into bite-sized pieces. Save the shells.",
+        "Melt butter in a pan over medium heat. Sauté shallots and mushrooms until soft.",
+        "Pour in brandy and carefully ignite or cook down, then add white wine and simmer until reduced by half.",
+        "Stir in heavy cream and Dijon mustard. Simmer until the sauce coats the back of a spoon. Season with salt and pepper.",
+        "Fold the lobster meat into the sauce, then spoon the mixture back into the reserved lobster shells.",
+        "Sprinkle grated Gruyere cheese on top and broil under a hot grill for 3-4 minutes until golden brown and bubbly."
+      ],
+      "prepTime": 30,
+      "cookTime": 20,
+      "difficulty": "hard",
+      "category": "non-vegetarian",
+      "isPremium": true
+    },
+    {
+      "id": "8",
+      "name": "Zesty Grilled Salmon with Asparagus",
+      "description": "A light and healthy dinner featuring lemon-herb marinated salmon fillets grilled alongside fresh tender asparagus.",
+      "ingredients": [
+        "2 Salmon fillets (150g each)",
+        "1 bunch Asparagus (trimmed)",
+        "2 tbsp Olive oil",
+        "1 Lemon (juiced and zested)",
+        "2 cloves Garlic (minced)",
+        "1 tsp Dried oregano",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "In a small bowl, whisk together the olive oil, lemon juice, lemon zest, minced garlic, dried oregano, salt, and pepper.",
+        "Place the salmon fillets in a dish and pour half of the marinade over them. Toss the asparagus with the remaining marinade.",
+        "Preheat your grill or grill pan to medium-high heat.",
+        "Grill the salmon fillets skin-side down for 4-5 minutes, then flip and grill for another 3-4 minutes until cooked through.",
+        "Grill the asparagus alongside the salmon for 5-6 minutes, turning occasionally, until tender-crisp and lightly charred.",
+        "Serve the salmon and asparagus warm, garnished with extra lemon slices."
+      ],
+      "prepTime": 15,
+      "cookTime": 10,
+      "difficulty": "medium",
+      "category": "non-vegetarian",
+      "isPremium": false
+    },
+    {
+      "id": "9",
+      "name": "Classic Crispy Falafel Wrap",
+      "description": "Authentic Middle Eastern falafel balls made from spiced ground chickpeas, fried till golden, and wrapped in warm flatbread with tahini.",
+      "ingredients": [
+        "1 cup Dried chickpeas (soaked overnight, not canned)",
+        "1/2 cup Onion (chopped)",
+        "1 cup Fresh parsley",
+        "1 cup Fresh cilantro",
+        "3 cloves Garlic",
+        "1 tbsp Ground cumin",
+        "1 tbsp Ground coriander",
+        "Vegetable oil for frying",
+        "Flatbreads, tomatoes, cucumber, and Tahini sauce for assembly"
+      ],
+      "instructions": [
+        "Drain the soaked chickpeas and add them to a food processor along with the onion, parsley, cilantro, garlic, cumin, coriander, salt, and pepper.",
+        "Pulse until the mixture is finely ground but not pureed, resembling coarse sand.",
+        "Transfer the mixture to a bowl, cover, and refrigerate for 1 hour to help it bind.",
+        "Form the mixture into small balls or patties.",
+        "Heat 2 inches of vegetable oil in a deep pan to 350°F (175°C). Fry the falafel balls in batches for 3-4 minutes until deep golden brown.",
+        "Assemble wraps by placing falafel balls on flatbreads, adding chopped tomatoes, cucumbers, and drizzling with tahini sauce."
+      ],
+      "prepTime": 25,
+      "cookTime": 15,
+      "difficulty": "medium",
+      "category": "vegan",
+      "isPremium": false
+    },
+    {
+      "id": "10",
+      "name": "Grand Wagyu Beef Burger",
+      "description": "The ultimate luxury burger featuring an incredibly juicy, melt-in-your-mouth Wagyu beef patty, caramelized onions, and truffle mayo on a toasted brioche bun.",
+      "ingredients": [
+        "1 Wagyu beef burger patty (approx 200g)",
+        "1 Brioche bun (halved)",
+        "1/2 cup Onions (sliced)",
+        "1 tbsp Butter",
+        "1 slice Cheddar cheese",
+        "2 tbsp Truffle mayonnaise",
+        "1 leaf Butter lettuce",
+        "Salt and black pepper"
+      ],
+      "instructions": [
+        "Melt butter in a pan over medium-low heat. Cook sliced onions slowly for 20 minutes, stirring occasionally, until caramelized and dark golden.",
+        "Season the Wagyu patty generously with salt and pepper on both sides.",
+        "Heat a cast-iron skillet over high heat. Cook the patty for 3 minutes without moving to get a deep crust, then flip.",
+        "Top the patty with the cheddar cheese slice, cover the pan for 1-2 minutes until cheese melts and internal temp reaches medium-rare/medium.",
+        "Toast the brioche bun halves in the pan with a bit of butter until golden.",
+        "Assemble the burger: spread truffle mayo on the bottom bun, lay the butter lettuce, followed by the Wagyu patty with melted cheese, top with caramelized onions, and cover with the top bun."
+      ],
+      "prepTime": 20,
+      "cookTime": 25,
+      "difficulty": "medium",
+      "category": "non-vegetarian",
+      "isPremium": true
+    }
+  ]
+}
